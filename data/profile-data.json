@@ -1,6 +1,8 @@
 {
-  "name": "Prof. Dr. Shams Hamid",
+  "name": "Shams Hamid, PhD",
   "canonicalName": "Shams Hamid",
+  "preferredPublicTitle": "Professor Shams Hamid, PhD",
+  "publicBase": "Toronto, Canada",
   "positioning": [
     "Philosopher",
     "Futurist",
@@ -12,7 +14,7 @@
     "Strategic Foresight",
     "Relational Intelligence",
     "AI Ethics",
-    "Human-Centered AI",
+    "Epistemic Trust",
     "Philosophy",
     "Education Reform",
     "Systems Thinking",
@@ -20,83 +22,53 @@
     "Climate Futures"
   ],
   "currentPublicRoles": [
-    {
-      "role": "Founding Director",
-      "organization": "IMAGINE – Institute of Futures Studies",
-      "status": "publicly current"
-    },
-    {
-      "role": "Futurists Board Member",
-      "organization": "Lifeboat Foundation",
-      "since": 2025
-    },
-    {
-      "role": "Expert Team, AI & Future Literacy Educator",
-      "organization": "Power for Change Institute",
-      "status": "publicly current"
-    }
+    {"role":"Founding Director","organization":"IMAGINE – Institute of Futures Studies","location":"Toronto, Canada"},
+    {"role":"Futurists Board Member","organization":"Lifeboat Foundation","since":2025},
+    {"role":"Expert Team, AI & Future Literacy Educator","organization":"Power for Change Institute"}
   ],
   "formerRoles": [
-    {
-      "role": "Dean of Social Sciences",
-      "organization": "Iqra University",
-      "period": "2019–2024"
-    }
+    {"role":"Dean of Social Sciences","organization":"Iqra University","period":"2019–2024"}
   ],
   "education": [
-    {
-      "degree": "PhD",
-      "field": "Philosophy",
-      "institution": "Hamdard University",
-      "year": 1999
-    },
-    {
-      "degree": "MA",
-      "field": "Philosophy",
-      "institution": "University of Karachi",
-      "year": 1990
-    },
-    {
-      "degree": "BA",
-      "field": "Philosophy, Psychology, Sociology",
-      "institution": "University of Karachi",
-      "year": 1988
-    }
+    {"degree":"PhD","field":"Philosophy","institution":"Hamdard University","year":1999},
+    {"degree":"MA","field":"Philosophy","institution":"University of Karachi","year":1990},
+    {"degree":"BA","field":"Philosophy, Psychology, Sociology","institution":"University of Karachi","year":1988}
+  ],
+  "featuredVideo": {
+    "title": "Imagining Futures with Imaginables",
+    "context": "World Futures Studies Federation presentation",
+    "youtube": "https://youtu.be/_7BHULCZDZw",
+    "embed": "https://www.youtube-nocookie.com/embed/_7BHULCZDZw"
+  },
+  "publicVideos": [
+    {"title":"UNESCO Chair Launch at NWU – Message","url":"https://youtu.be/CGYfolSkQhQ"},
+    {"title":"Futures Talks with Dr. Ralph Mercer","url":"https://youtu.be/n3rizg6lY14"},
+    {"title":"Imagining Futures with Imaginables","url":"https://youtu.be/_7BHULCZDZw"}
+  ],
+  "latestLinkedInArticles": [
+    {"date":"2026-09-25","title":"Can Foreign Investment Increase Canadian Sovereignty?","url":"https://www.linkedin.com/pulse/can-foreign-investment-increase-canadian-sovereignty-shams-hamid-k3a0c","theme":"Canada 2030"},
+    {"date":"2026-09-22","title":"When Compute Becomes Infrastructure, Energy Becomes AI Policy","url":"https://www.linkedin.com/pulse/when-compute-becomes-infrastructure-energy-ai-policy-shams-hamid-jnkqc","theme":"Canada and AI infrastructure"},
+    {"date":"2026-09-18","title":"The Future Will Not Be Answered","url":"https://www.linkedin.com/pulse/future-answered-shams-hamid-imywc","theme":"Relational Intelligence"},
+    {"date":"2026-09-17","title":"Canada 2030: What Does C$500 Billion Really Buy Us?","url":"https://www.linkedin.com/pulse/canada-2030-what-does-c500-billion-really-buy-us-shams-hamid-rdgoc","theme":"Canada and public value"},
+    {"date":"2026-09-11","title":"The ROI of Epistemic Trust","url":"https://www.linkedin.com/pulse/roi-epistemic-trust-shams-hamid-quqqc","theme":"Epistemic Trust"},
+    {"date":"2026-09-04","title":"Why Refusal Is the New Form of Intelligence","url":"https://www.linkedin.com/pulse/why-refusal-new-form-intelligence-shams-hamid-dhdzc","theme":"AI refusal and governance"}
   ],
   "selectedPublications": [
-    {
-      "year": 2026,
-      "title": "Futures Thinking and Futures Literacy",
-      "type": "Book chapter",
-      "publisher": "Routledge"
-    },
-    {
-      "year": 2024,
-      "title": "Imagining with imaginable: A Holistic Approach to Futures Thinking",
-      "doi": "10.58661/ijsse.v4i3.320"
-    },
-    {
-      "year": 2024,
-      "title": "Evaluating The Role and Biases of Intuition in The Scenario Planning Process Through the III Approach",
-      "doi": "10.58622/vjes.v4i3.199"
-    },
-    {
-      "year": 2024,
-      "title": "IMAGINE – Designing Futures Literacy Labs for Sustaining Climate Change",
-      "doi": "10.20547/jess1212412103"
-    }
+    {"year":2026,"title":"Futures Thinking and Futures Literacy","type":"Book chapter","publisher":"Routledge"},
+    {"year":2024,"title":"Imagining with imaginable: A Holistic Approach to Futures Thinking","doi":"10.58661/ijsse.v4i3.320"},
+    {"year":2024,"title":"Evaluating The Role and Biases of Intuition in The Scenario Planning Process Through the III Approach","doi":"10.58622/vjes.v4i3.199"},
+    {"year":2024,"title":"IMAGINE – Designing Futures Literacy Labs for Sustaining Climate Change","doi":"10.20547/jess1212412103"}
   ],
   "sameAs": [
     "https://www.linkedin.com/in/shams-hamid/",
+    "https://www.youtube.com/@shamshamid",
     "https://lifeboat.com/ex/bios.shams.hamid",
     "https://powerforchange.world/"
   ],
   "email": "shamshamidhere@gmail.com",
-  "portraitSource": "https://www.linkedin.com/in/shams-hamid/",
+  "portrait": "assets/shams-hamid.jpg",
   "portraitApprovalStatus": "Approved public profile portrait supplied for website use.",
   "website": "https://salmankhatani-web.github.io/shams-hamid/",
-  "public_email": "shamshamidhere@gmail.com",
-  "portrait": "assets/shams-hamid.jpg",
   "teachingLegacy": {
     "careerStart": 1990,
     "summary": "More than three decades of university teaching, academic leadership, curriculum development and mentorship.",
