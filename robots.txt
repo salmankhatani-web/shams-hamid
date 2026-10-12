@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salmankhatani-web.github.io/shams-hamid/sitemap.xml
