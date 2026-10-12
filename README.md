@@ -19,3 +19,5 @@ Public-facing claims are intentionally source-bounded. In particular, the 10,000
 
 ## Privacy
 Do not publish residential address, private telephone numbers, identity-document information or other non-public personal data.
+
+Deployment workflow initialized on the default branch.
